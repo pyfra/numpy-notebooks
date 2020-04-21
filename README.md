@@ -1,2 +1,2 @@
 # numpy-notebooks
-A collection of numpy notebooks and for learning and as a reference
+A collection of numpy notebooks for self-learning and as a reference
